@@ -2,6 +2,9 @@
 
 This repository contains a custom `package.conf` file for [Laragon](https://laragon.org/) that allows you to manage various versions of software in a portable setup. This configuration makes it easy to switch between multiple versions of essential tools like phpMyAdmin, MySQL, MongoDB, PostgreSQL, PHP, and more.
 
+![Laragon Packages](https://github.com/adeism/laragon-packages.conf/blob/main/image.png)
+
+
 ## 📦 Available Software and Versions
 
 The configuration file includes the following software with multiple versions for flexibility and compatibility:
