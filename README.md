@@ -21,7 +21,7 @@ The configuration file includes the following software with multiple versions fo
   - `4.9.10`
   - `4.8.5`
 
-### **MySQL** 🐬
+### **MySQL** 💾
 
 - **Latest 8.0:** `8.0.34`
 - **Previous 8.0 Versions:**
@@ -37,7 +37,7 @@ The configuration file includes the following software with multiple versions fo
   - `5.6.51`
   - `5.5.62`
 
-### **DBeaver** 🐤 (Database Tool)
+### **DBeaver** 💼 (Database Tool)
 
 - **Latest:** `23.0.0`
 - **Previous Versions:**
@@ -75,7 +75,7 @@ The configuration file includes the following software with multiple versions fo
   - `1.55.2`
   - `1.50.0`
 
-### **PostgreSQL** 🐘
+### **PostgreSQL** 💽
 
 - **Latest:** `15.4`
 - **Previous Versions:**
@@ -85,7 +85,7 @@ The configuration file includes the following software with multiple versions fo
   - `11.16`
   - `10.21`
 
-### **PHP** 🐘
+### **PHP** 💻
 
 - **Latest:** `8.2.12`
 - **Previous Versions:**
