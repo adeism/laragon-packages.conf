@@ -1,9 +1,9 @@
-# 🚀 Laragon Portable Custom Configuration
+# 🚀 Laragon Portable Custom Configuration with [Linkchecker](https://github.com/adeism/link-checker)
 
 This repository contains a custom `package.conf` file for [Laragon](https://laragon.org/) that allows you to manage various versions of software in a portable setup. This configuration makes it easy to switch between multiple versions of essential tools like phpMyAdmin, MySQL, MongoDB, PostgreSQL, PHP, and more.
 
-![Laragon Packages](https://github.com/adeism/laragon-packages.conf/blob/main/image.png)
 
+<img src="https://github.com/adeism/laragon-packages.conf/blob/main/image.png" alt="Laragon Packages" width="500" />
 
 ## 📦 Available Software and Versions
 
